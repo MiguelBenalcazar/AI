@@ -1,0 +1,3 @@
+
+# https://github.com/ma-shamshiri/Pacman-Game/blob/master/Pacman/searchAgents.py
+# https://github.com/thiadeliria/Pacman/blob/master/search.py
